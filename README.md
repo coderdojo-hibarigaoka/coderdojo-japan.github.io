@@ -22,9 +22,10 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 ### 関東地方
 
 * 下北沢: [CoderDojo Tokyo](http://tokyo.coderdojo.jp/)
+* 小平：[CoderDojo Kodaira](http://coderdojo-kodaira.github.io)
 * 千葉: [CoderDojo Chiba](http://coderdojo-chiba.github.io/)
 * 柏: [CoderDojo Kashiwa](http://coderdojokashiwa.wix.com/kashiwa)
-* ひばりヶ丘 [CoderDojo Hibarigaoka](http://coderdojo.hanare-hibari.info/)
+* ひばりヶ丘: [CoderDojo Hibarigaoka](http://coderdojo.hanare-hibari.info/)
 * さいたま [CoderDojo Saitama](http://univ7f.com/tag/coder-dojo/)
 * 水戸
 * 栃木 (準備中)
